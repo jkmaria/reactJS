@@ -1,0 +1,23 @@
+
+
+.card {
+    background-color: #0A3C47;
+}
+
+tr {
+    background-color: #0A3C47;
+}
+
+h2 {
+    color: #D7BDBD;
+}
+
+.container-table {
+    display: inline-table;
+}
+
+.back-button {
+    margin: 10px;
+    display: flex;
+  
+}
